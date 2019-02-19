@@ -1,0 +1,23 @@
+
+body {
+  background-image: url("bac.jpg");
+  background-size: 100% 100%;
+}
+h1{
+	color: maroon;
+	text-align: center;
+	font-family: "Times New Roman"
+}
+h2{
+	text-align: left;
+	color: #ff9900;
+	font-family: Lucida Console 
+}
+p{
+	font-family: Courier New;
+	color: #00bfff;
+	text-align: justify-all;
+}
+img {
+  border-radius: 50%;
+}
